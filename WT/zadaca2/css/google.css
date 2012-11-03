@@ -1,0 +1,34 @@
+﻿* 
+
+{
+    margin-top:0;
+   margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+form {
+    background-color: #F1F1F1;
+    font-family: arial,helvetica,sans-serif;
+   float:right;
+   padding-left:45px;
+}
+
+header {
+    height:45px;
+    width:auto;
+    background-color: #F1F1F1;
+    border-bottom: 1px solid #E5E5E5;
+    padding-left: 30px;
+    padding-top:22px;
+     padding-right: 30px;
+     padding-bottom:5px;
+        font-family: arial,helvetica,sans-serif;
+    
+}
+
+h1{  color: #DD4B39;
+        font-family: arial,helvetica,sans-serif;
+
+
+}
