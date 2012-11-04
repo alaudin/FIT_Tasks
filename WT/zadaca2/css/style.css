@@ -1,0 +1,160 @@
+﻿* {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body {
+    position: absolute;
+    height: 100%;
+    min-width: 100%;
+}
+
+html {
+    background-color: white;
+    color: #333333;
+    direction: ltr;
+    font-size: 81.25%;
+    font-family: arial,helvetica;
+}
+
+form {
+    background-color: #F1F1F1;
+    font-family: arial,helvetica,sans-serif;
+    float: right;
+    padding-left: 45px;
+}
+
+
+
+h1 {
+    color: #DD4B39;
+    font-family: arial,helvetica,sans-serif;
+}
+
+h2 {
+    font-family: arial,helvetica,sans-serif;
+    color: #555555;
+    font-size: 20.0167px;
+    line-height: 24px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none;
+    text-align: start;
+    text-indent: 0px;
+}
+
+.zaglavlje {
+    height: 45px;
+    width: auto;
+    background-color: #F1F1F1;
+    border-bottom: 1px solid #E5E5E5;
+    padding-left: 30px;
+    padding-top: 22px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    font-family: arial,helvetica,sans-serif;
+    margin-bottom: 20px;
+}
+
+.prijavabox {
+    float: right;
+    background: none repeat scroll 0 0 #F1F1F1;
+    border: solid 1px #E5E5E5;
+    padding: 25px;
+    margin: 65px;
+    width: 362px;
+}
+
+.crveninaslov {
+    margin-left: 350px;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 20.0167px;
+    color: #DD4B39;
+    background-color: transparent;
+    line-height: 24px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none;
+    text-align: start;
+    text-indent: 0px;
+}
+
+.sivitxt {
+    color: #999999;
+}
+
+.zaglavlje .logo {
+    float: left;
+}
+
+.beneficije {
+    margin: 0 0 2.5em;
+    overflow: hidden;
+}
+
+
+p {
+    line-height: 17px;
+    font-size: 13px;
+}
+
+.lijevi-dio {
+    margin-top: 40px;
+    margin-left: 350px;
+    margin-right: 600px;
+}
+
+.dinput {
+ 
+   
+     width: 80px;
+     height:25px
+}
+
+.oinput {
+    width: 300px;
+     height:25px;
+}
+.input {
+      height:25px;
+      width: 105px;
+}
+.dpinput {
+    height:24.5px;
+width: 130px;
+}
+
+.tinput {
+    width: 150px;
+}
+
+.alignleft {
+    float: left;
+    border-bottom-width: initial;
+    border-right: solid 25px;
+    border-color: white;
+}
+
+.footer {
+    text-align: left;
+    color: #999999;
+    border-top: 1px solid #EBEBEB;
+    margin-left: 30px;
+    bottom: 0;
+    height: 35px;
+    overflow: hidden;
+    position: static;
+    width: 100%;
+}
