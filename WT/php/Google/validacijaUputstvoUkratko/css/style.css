@@ -1,0 +1,91 @@
+﻿* {
+    margin:0px 0px 0px 0px;
+    border:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#wrap
+{
+   position:relative;
+   min-height:100%;
+   min-width:100px;
+}
+
+#gl-head 
+{
+   min-width:980px;
+   height:71px;
+   border-bottom: 1px solid #E5E5E5;
+   background-color: #F1F1F1;
+}
+#img-logo 
+{
+    float:left;
+    margin-top:17px;
+    
+}
+#head-cont 
+{
+    padding:0px 44px;
+}
+
+#sign-up-btn 
+{
+    float:right;
+    margin-top:17px;
+}
+
+
+#signup-page {
+
+ margin: 40px auto auto auto;
+ width:1024px;
+}
+
+#sign-up {
+    width:350px;
+    float:right;
+    
+}
+
+#ben-cont 
+{   width:250px;
+    float:left;
+}
+
+.clearfix:after {
+	clear: both;
+	display: block;
+	content: " ";
+	height: 0px;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+li.clearfix {
+    display: list-item;
+}
+.benefit {
+ overflow:hidden;
+ overflow-x:hidden;
+ overflow-y:hidden;
+
+    
+    
+}
+
+.benefit-text {
+    float:right;
+    
+}
+.benefit-img {
+    float:left;
+}

@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+    <title>Register</title>
+
+
+
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <link href="js/css/validationEngine.jquery.css" rel="stylesheet" />
+    <script src="js/languages/jquery.validationEngine-en.js"></script>
+    <script src="js/jquery.validationEngine.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery("#mainForm").validationEngine();
+        });
+    </script>
+
+
+
+
+    
+</head>
+<body>
+    <form id="mainForm" method="post" action="register.php">
+        </br>
+			</br>
+			</br>
+			</br>
+               
+        <input type="text" value="" name="fname" id="ime" class="validate[required]"></br>
+			</br>
+				
+        <input type="text" value="" name="flname" id="prezime" class="validate[required]">
+    </form>
+</body>
+</html>
